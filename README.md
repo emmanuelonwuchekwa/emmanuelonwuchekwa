@@ -15,7 +15,7 @@
 ## 📫 How to reach me
 - LinkedIn: [Emmanuel Onwuchekwa](https://bit.ly/40Hrvkl)
 - Telegram: [@infamosnuel](https://t.me/infamosnuel)
-- Twitter: [@infamosnuel](https://twitter.com/emmachekwas_py)
+- Twitter: [@emmachekwa_py](https://twitter.com/emmachekwas_py)
 
 ## 🏆 Top Repositories
 - [BinaryToDecimalConversionGenerator](https://github.com/emmanuelonwuchekwa/BinaryToDecimalConversionGenerator): Generate a random 4-digit binary number and convert it to its decimal equivalent.
