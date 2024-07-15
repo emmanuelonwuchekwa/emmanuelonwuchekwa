@@ -1,6 +1,6 @@
 # Hi there, I'm Emmanuel 👋
 
-**Highly driven and self-motivated software engineer with a strong focus on backend development. Committed to continuous learning.**
+**Dynamic Software Engineer with 3 years of hands-on experience in software development, data analysis, and workflow automation. Proficient in leveraging emerging technologies to enhance project efficiency and performance. Demonstrated expertise in Python programming, web and mobile development, and database management. Proven track record of collaborating with cross-functional teams to identify technical challenges and implement effective solutions.**
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
