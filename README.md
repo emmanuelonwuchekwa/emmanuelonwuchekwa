@@ -14,6 +14,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0066FF?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ## 📈 GitHub Stats
 ![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelonwuchekwa&show_icons=true&theme=radical)
