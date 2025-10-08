@@ -16,11 +16,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-0066FF?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)
 
-### 📊 GitHub Stats
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelonwuchekwa&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmanuelonwuchekwa&theme=radical)
+
 
 ### 📈 Contribution Graph
 ![Emmanuel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=emmanuelonwuchekwa&theme=radical)
