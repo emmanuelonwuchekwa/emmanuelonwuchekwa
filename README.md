@@ -1,6 +1,6 @@
 # Hi there, I'm Emmanuel 👋
 
-**Dynamic Software Engineer with 3 years of hands-on experience in software development, data analysis, and workflow automation. Proficient in leveraging emerging technologies to enhance project efficiency and performance. Demonstrated expertise in Python programming, web and mobile development, and database management. Proven track record of collaborating with cross-functional teams to identify technical challenges and implement effective solutions.**
+**Cybersecurity student at Adeleke University with a background in software development. Over the past three years, I’ve worked on projects ranging from full-stack web apps, building up a solid foundation in Python, Networking, and modern development tools. I’ve become especially interested in how software and security intersect. Focused on gaining practical experience in cybersecurity and contributing to meaningful, real-world projects**
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
