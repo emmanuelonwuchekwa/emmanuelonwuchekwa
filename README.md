@@ -29,7 +29,7 @@
 - LinkedIn: [Emmanuel Onwuchekwa](https://bit.ly/40Hrvkl)
 - Telegram: [@infamosnuel](https://t.me/infamosnuel)
 - Twitter: [@emmachekwa_py](https://twitter.com/emmachekwas_py)
-- Discord: [@loop.eth](https://t.me/infamosnuel)
+- Discord: [@loop.eth](https://discordapp.com/users/1019587490413289552)
 
 ## 🏆 Top Repositories
 - [BinaryToDecimalConversionGenerator](https://github.com/emmanuelonwuchekwa/BinaryToDecimalConversionGenerator): Generate a random 4-digit binary number and convert it to its decimal equivalent.
