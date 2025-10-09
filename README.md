@@ -17,8 +17,8 @@
 ![Dataverse](https://img.shields.io/badge/Dataverse-0066FF?style=for-the-badge&logo=microsoft-dataverse&logoColor=white)
 
 
-### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emmanuelonwuchekwa&theme=radical)
+### 🔥 Streak Stats 
+![GitHub Streak](https://streak-stats.demolab.com?user=emmanuelonwuchekwa&theme=radical)
 
 
 ### 📈 Contribution Graph
