@@ -32,9 +32,8 @@
 - Discord: [@loop.eth](https://discordapp.com/users/1019587490413289552)
 
 ## 🏆 Top Repositories
-- [BinaryToDecimalConversionGenerator](https://github.com/emmanuelonwuchekwa/BinaryToDecimalConversionGenerator): Generate a random 4-digit binary number and convert it to its decimal equivalent.
-- [calculate_fibonacci_sum](https://github.com/emmanuelonwuchekwa/calculate_fibonacci_sum): Calculate the sum of the first 50 numbers in the Fibonacci sequence.
 - [NeuralNine-Calls-v0.0.1-Alpha](https://github.com/emmanuelonwuchekwa/NeuralNine-Calls-v0.0.1-Alpha): Real-time communication platform for video and audio calls with screen sharing.
+- 
 
 ## 📜 License
 [MIT](LICENSE)
