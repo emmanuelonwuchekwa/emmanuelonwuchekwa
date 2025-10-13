@@ -26,10 +26,11 @@
 
 
 ## 📫 How to reach me
-- LinkedIn: [Emmanuel Onwuchekwa](https://bit.ly/40Hrvkl)
 - Telegram: [@infamosnuel](https://t.me/infamosnuel)
 - Twitter: [@emmachekwa_py](https://twitter.com/emmachekwas_py)
 - Discord: [@loop.eth](https://discordapp.com/users/1019587490413289552)
+- Email: <a href="mailto:emmanuel@example.com">emma.chekwasch@gmail.com</a>
+
 
 ## 🏆 Top Repositories
 - [NeuralNine-Calls-v0.0.1-Alpha](https://github.com/emmanuelonwuchekwa/NeuralNine-Calls-v0.0.1-Alpha): Real-time communication platform for video and audio calls with screen sharing.
